@@ -1,4 +1,4 @@
-Name: Aman Kumar \n
-Roll no: 26K-2513 \n
-Department: BDS-1A \n
+Name: Aman Kumar\
+Roll no: 26K-2513\
+Department: BDS-1A\
 Fast UNIVERSITY (NUCES)
